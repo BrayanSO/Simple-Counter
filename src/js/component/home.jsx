@@ -11,6 +11,8 @@ const Home = () => {
 	return ()=>clearInterval(intervalId)
 	})
 	return <Seconds seconds={seconds}/>
+	
+
 };
 
 export default Home;
