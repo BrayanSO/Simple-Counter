@@ -1,10 +1,14 @@
 .todos {
     border: 10px;
     background-color: black;
-    color: aliceblue;
+    color: white;
     width: 550px;
     font-size:60px;
     margin-top: 30px;
     padding: 6px;
 
+}
+body {
+    color: red;
+    background-color: black;
 }

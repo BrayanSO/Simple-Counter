@@ -8,9 +8,14 @@ const Seconds =(props) => {
      <div className=""> {props.secondsTres}</div>
      <div className=""> {props.secondsDos}</div>
      <div className=""> {props.secondsUno}</div>
-     <div className=""> {props.seconds}</div>
-
+     <div className=""> {props.seconds}</div>    
+              
      </div>
+     
      }
+     
+
+    
+    
      
 export default Seconds
